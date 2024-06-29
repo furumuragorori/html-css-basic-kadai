@@ -1,0 +1,21 @@
+<!DOCTYPE html>                                                      
+<html>                                                               
+<head>                                                               
+  <title>私の趣味</title>                                             
+  <meta name="description" content="毎日の気象情報をお知らせします">               
+  <meta charset="utf-8">                                            
+</head>                                                              
+<body>                                                               
+  <header>                                                             
+    <h1>天気予報</h1>                                                   
+  </header>                                                            
+  <main>                                                               
+    <h2>私は中学時代にサッカーを始めました。</h2>                                                 
+    <p>現在はサッカーのコーチとして活動をして、趣味のサッカーを楽しんでいます。
+    </p>                                           
+  </main>                                                              
++   <footer>                                                             
++     <p>Copyright IITENKI inc. Copyright All rights reserved.</p>                           
++   </footer>                                                            
+</body>                                                              
+</html>                                                              
