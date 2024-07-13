@@ -1,0 +1,27 @@
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(244, 79, 79);
+  margin: 0px;
+}
+
+
+
+.parent {
+  display: flex;
+  padding: 5px;
+  margin: 5px;
+}
+
+#contents01 {
+  border: solid 3px rgb(238, 204, 204);
+}
+#contents02 {
+  border: solid 3px rgb(238, 204, 204)
+}
+#contents03 {
+  border: solid 3px rgb(238, 204, 204)
+}
+
+h2 {
+  color: rgb(236, 122, 122);
+}
