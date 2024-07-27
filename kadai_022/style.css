@@ -1,6 +1,16 @@
+@media screen and (max-width: 768px) {
+  p{
+  font-size: 20px;
+  }
+  .parent{
+  display: block;
+  }
+}
+
+
 header {
   background-color: rgb(244, 79, 79);
-  margin-bottom: 40px;  
+  margin-bottom: 40px;
 }
 
 
@@ -38,7 +48,6 @@ h1 {
 .contents img{
   width: 70%;
   margin: 10px auto;
-
 }
 
 h2{
@@ -64,6 +73,15 @@ p {
 
 
 footer {
-  color:rgb(244, 79, 79);
+  background-color: rgb(244, 79, 79);
+  color:rgb(255, 255, 255);
   text-align:center;
+}
+
+fotter a :visited {
+  color:rgb(193, 234, 251)
+}
+
+fotter a {
+  color:rgb(245, 178, 168)
 }
