@@ -1,18 +1,13 @@
 .top {
   width: 800px;
   background-color: #dcc9f4;
-  margin: 20px;
+  margin: 20px auto;
+  text-align: center;
 }
 
-#top-child01 {
-  background-color: #ffd9df;
-}
-
-#top-child02 {
-  background-color: #ffd9df;
-}
-
-#top-child03 {
+.top p {
+  display:inline-block;
+  width: 20%;
   background-color: #ffd9df;
 }
 
@@ -23,7 +18,7 @@
   width: 800px;
   background-color: #ffd9df ;
   position: relative;
-  margin: 20px;
+  margin: 20px auto;
 }
 
 #first-div {
@@ -61,7 +56,7 @@
   width: 800px;
   background-color: #87ceeb ;
   position: relative;
-  margin: 20px;
+  margin: 20px auto;
 }
 
 #bottom-child01 {
